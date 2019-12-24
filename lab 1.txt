@@ -6,3 +6,7 @@ int x(){
 
 }
 shimaa
+int z()
+{
+	
+}
