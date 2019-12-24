@@ -2,6 +2,7 @@ reham
 medhat
 ezzat
 Eman
+<<<<<<< HEAD
 int x(){
 
 }
@@ -9,4 +10,12 @@ shimaa
 int z()
 {
 	
+=======
+int x
+shimaa
+int z()
+{
+  if{
+}	
+>>>>>>> 03905d700856c819f39c41659522d4470ff1cf01
 }
