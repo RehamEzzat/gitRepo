@@ -1,11 +1,20 @@
-reham
-medhat
-ezzat
-Eman
-int x
-shimaa
-int z()
+class Hello
 {
-  if{
-}	
+
+public void fun(int x)
+{
+
+	if(x>8)
+	{
+}
+}
+public void fun(int y)
+{
+
+	if(y>8)
+	{
+}
+}
+
+
 }
